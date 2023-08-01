@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Sunny Days",
+    "band": "Old City",
+    "format": "12inchEP 45rpm",
+    "year": 2013,
+    "display_price": "$12",
+    "price": 12,
+    "imgUrl": "/images/merch/sunny-days300.jpg"
+  },
+  {
+    "id": 2,
+    "title": "A Substance Never Seen Before",
+    "band": "Old City",
+    "format": "out of print",
+    "year": 2020,
+    "display_price": "unavailable",
+    "price": 0,
+    "imgUrl": "/images/merch/substance300.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Future Dead",
+    "band": "Old City",
+    "format": "10inchEP 45rpm",
+    "year": 2018,
+    "display_price": "$10",
+    "price": 10,
+    "imgUrl": "/images/merch/future-dead300.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Estado Fatale",
+    "band": "Fatal State",
+    "format": "12&ldquo; lp 33rpm",
+    "year": 2019,
+    "display_price": "$12",
+    "price": 12,
+    "imgUrl": "/images/merch/fatalState300.jpg"
+  }
+]
